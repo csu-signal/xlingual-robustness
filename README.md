@@ -22,23 +22,23 @@ pip install tensorboardx\
 
 ## NER 
 
-Run <mark>train_test_before_bias.ipynb</mark> to find the model performance on original datasets. On this file, the overlap between datasets are computed.
+Run `train_test_before_bias.ipynb` to find the model performance on original datasets. On this file, the overlap between datasets are computed.
 
-Run <mark>Genarate_perturbation_dataset.ipynb</mark> to generate the prturbation dataset.
+Run `Genarate_perturbation_dataset.ipynb` to generate the prturbation dataset.
 
-Run <mark>train_test_after_bias.ipynb</mark> to find the model performance on perturbation datasets.
+Run `train_test_after_bias.ipynb` to find the model performance on perturbation datasets.
 
 ## WikiTitle
-Run <mark>Genarate_WikiTitle_dataset.ipynb</mark> to generate WikiTitle dataset. Also, you can directly find the dataset from [Datasets/WikiTitle](https://drive.google.com/drive/folders/1sTHfJiYsk9Wq7g3uaDmTgHVy703BdSL7?usp=drive_link).
+Run `Genarate_WikiTitle_dataset.ipynb` to generate WikiTitle dataset. Also, you can directly find the dataset from [Datasets/WikiTitle](https://drive.google.com/drive/folders/1sTHfJiYsk9Wq7g3uaDmTgHVy703BdSL7?usp=drive_link).
 
-Run <mark>train_test_before_bias.ipynb</mark> to find the model performance on original datasets.
+Run `train_test_before_bias.ipynb` to find the model performance on original datasets.
 
-Run <mark>Genarate_perturbation_dataset.ipynb</mark> to generate the prturbation dataset.
+Run `Genarate_perturbation_dataset.ipynb` to generate the prturbation dataset.
 
-Run <mark>train_test_after_bias.ipynb</mark> to find the model performance on perturbation datasets.
+Run `train_test_after_bias.ipynb` to find the model performance on perturbation datasets.
 
-Run <mark>WikiTitle.ipynb</mark> to find the overlap between languages datasets by different considerations like overlap of titles, all section texts, or 128-tokens texts. We used 128-tokens texts for the results.
+Run `WikiTitle.ipynb` to find the overlap between languages datasets by different considerations like overlap of titles, entire section texts, or 128-tokens texts. We used 128-tokens texts for the results.
 
 ## Plot
-Run <mark>plots.ipynb</mark> to draw plots for both NER and WikiTitle.
+Run `plots.ipynb` to draw plots for both NER and WikiTitle.
 
