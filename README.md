@@ -1,5 +1,5 @@
 # xlingual-robustness
-Paper: Cross-Lingual Transfer Robustness to Lower-Resource Languages on Adversarial Datasets
+Paper: Cross-Lingual Transfer Robustness to Lower-Resource Languages on Adversarial Datasets. For more information, look at the [abstract](https://drive.google.com/file/d/1VR4RAP5H4rzk464VdmdbBdbujAs1sUzu/view?usp=sharing).
 
 # Finetuning mBERT and XLM-R on NER and section title prediction tasks
 This work covers generating **main** and **perturbation** datasets and applying them in both **native** and **cross-lingual transfer** settings for **NER** and **section title prediction** tasks on **mBBERT** and **XLMR** models.
